@@ -12,7 +12,7 @@
   "author": "barile",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "jquery": "^3.4.1"
